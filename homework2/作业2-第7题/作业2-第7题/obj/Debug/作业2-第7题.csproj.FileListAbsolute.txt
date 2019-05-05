@@ -1,0 +1,7 @@
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\bin\Debug\作业2-第7题.exe.config
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\bin\Debug\作业2-第7题.exe
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\bin\Debug\作业2-第7题.pdb
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\obj\Debug\作业2-第7题.csprojAssemblyReference.cache
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\obj\Debug\作业2-第7题.csproj.CoreCompileInputs.cache
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\obj\Debug\作业2-第7题.exe
+C:\Users\yinjiaming\source\repos\作业2-第7题\作业2-第7题\obj\Debug\作业2-第7题.pdb
