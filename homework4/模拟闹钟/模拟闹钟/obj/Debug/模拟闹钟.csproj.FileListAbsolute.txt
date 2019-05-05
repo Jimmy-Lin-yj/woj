@@ -1,0 +1,7 @@
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\bin\Debug\模拟闹钟.exe.config
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\bin\Debug\模拟闹钟.exe
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\bin\Debug\模拟闹钟.pdb
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\obj\Debug\模拟闹钟.csprojAssemblyReference.cache
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\obj\Debug\模拟闹钟.csproj.CoreCompileInputs.cache
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\obj\Debug\模拟闹钟.exe
+C:\Users\yinjiaming\source\repos\模拟闹钟\模拟闹钟\obj\Debug\模拟闹钟.pdb

@@ -1,0 +1,7 @@
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\bin\Debug\订单管理.exe.config
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\bin\Debug\订单管理.exe
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\bin\Debug\订单管理.pdb
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\obj\Debug\订单管理.csprojAssemblyReference.cache
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\obj\Debug\订单管理.csproj.CoreCompileInputs.cache
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\obj\Debug\订单管理.exe
+C:\Users\yinjiaming\source\repos\订单管理\订单管理\obj\Debug\订单管理.pdb
