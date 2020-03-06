@@ -18,8 +18,10 @@ used as a backup
 + markdownlint  
 + vim
 + vscode-icons
-+ backgroud-cover
 + bracket pair Colorizer
++ Material Theme
++ Community Material Theme
++ Material Theme Icon
 
 ## browser scripts
 
