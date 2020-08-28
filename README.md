@@ -7,11 +7,10 @@ used as a backup
 ## ubuntu shell extensions  
 
 1. **hide top bar**
-2. **bing wallpaper chager**
-3. ***coverflow alt+tab***
-4. *dash to ck*
-5. **No title bar**
-6. ***user themes***  
+2. ***coverflow alt+tab***
+3. *dash to ck*
+4. **No title bar**
+5. ***user themes***  
 
 ## viscode extensions
 
@@ -22,26 +21,6 @@ used as a backup
 + Material Theme
 + Community Material Theme
 + Material Theme Icon
-
-## browser scripts
-
-+ vip 破解
-+ 视频html播放
-+ 计时器
-+ 豆瓣资源
-+ 网页限制解除
-
-## screen shot
-
-> 脚本页面截图
-
-## 谷歌学术镜像
-
-> + <https://coderschool.2345.ga/>
-> + <https://plus.likeso.ml/>
-> + <https://rain.likeso.ml/>
-
-更多可见<https://github.com/max2max/freess>  
 
 ## *Git for Windows*
 
