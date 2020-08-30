@@ -8,7 +8,7 @@ used as a backup
 
 1. **hide top bar**
 2. ***coverflow alt+tab***
-3. *dash to ck*
+3. *dash to dock*
 4. **No title bar**
 5. ***user themes***  
 
